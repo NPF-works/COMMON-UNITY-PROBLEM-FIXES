@@ -1,0 +1,16 @@
+ever see a console information with an error that says:
+that you have unused or missing script or meta data
+
+well that's because the Unity Dev's removed:
+on script delete,call meta data cleanup
+
+to fix that this script will resolve such a thing
+
+
+please note... that this script in vrchat may cause world/avatar upload cancelation
+if that is the case with your situation
+then move that scrip outside of asset folder
+and when upload is completed you can return that script into your project folder again
+
+
+enjoy :)

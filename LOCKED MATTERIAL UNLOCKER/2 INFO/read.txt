@@ -1,0 +1,6 @@
+this script will fix locked materials in unity
+
+please note... that this script in vrchat may cause world/avatar upload cancelation
+if that is the case with your situation
+then move that scrip outside of asset folder
+and when upload is completed you can return that script into your project folder again
